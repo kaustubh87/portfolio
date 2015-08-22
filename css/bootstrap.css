@@ -5,7 +5,11 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
+<<<<<<< HEAD
   font-family: sans-serif;
+=======
+  font-family: "Montserrat",sans-serif;
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -13,36 +17,63 @@ html {
 .img-center
 {
  margin: 0 auto;
+<<<<<<< HEAD
+=======
+
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 }
 
 .well-modified
 {
 background-color:#dfd5ce;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 }
 .red-color
 {
 color:#ee4216;
+<<<<<<< HEAD
 }
 
 .blank-space{
 margin-top:10px;
 margin-bottom:10px;
+=======
+
+}
+
+.blank-space{
+
+margin-top:10px;
+margin-bottom:10px;
+
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 }
 
 .paragraph
 {
 padding:6px;
+<<<<<<< HEAD
+=======
+
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 }
 
 .info{
 background:#F7EDD9;
 }
 
+<<<<<<< HEAD
 .footer{
 padding-top:30px;
 margin-top:50px;
 }
 
+=======
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 .success{
 
 background:#D8F0DF;
@@ -1333,6 +1364,10 @@ p {
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
+<<<<<<< HEAD
+=======
+  font-family: "Montserrat",sans-serif;
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 }
 @media (min-width: 768px) {
   .lead {
@@ -3589,7 +3624,11 @@ tbody.collapse.in {
   height: 1px;
   margin: 9px 0;
   overflow: hidden;
+<<<<<<< HEAD
   background-color: #000000;
+=======
+  background-color: #e5e5e5;
+>>>>>>> f009bbe09e07dffeb6a26d2889647feaeac669cb
 }
 .dropdown-menu > li > a {
   display: block;
